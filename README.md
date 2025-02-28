@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhqaxim" alt="muhqaxim" /></a> </p>
 
-- 🔭 I’m currently working on [Intelliwriter](https://intelliwriter.io/)
-
 - 🌱 I’m currently learning **NextJS, Devops, ML, Generative AI, GoLang, Rust**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
